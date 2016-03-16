@@ -20,9 +20,10 @@
 		3F082E711C96F51700ACF6F8 /* play_@128.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F082E6A1C96F51700ACF6F8 /* play_@128.png */; settings = {ASSET_TAGS = (); }; };
 		3F082E721C96F51700ACF6F8 /* point.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F082E6B1C96F51700ACF6F8 /* point.png */; settings = {ASSET_TAGS = (); }; };
 		3F082E731C96F51700ACF6F8 /* voice.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F082E6C1C96F51700ACF6F8 /* voice.png */; settings = {ASSET_TAGS = (); }; };
-		3F082E7C1C96F51F00ACF6F8 /* MyActivityIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F082E781C96F51F00ACF6F8 /* MyActivityIndicatorView.m */; settings = {ASSET_TAGS = (); }; };
-		3F082E7D1C96F51F00ACF6F8 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F082E7B1C96F51F00ACF6F8 /* Reachability.m */; settings = {ASSET_TAGS = (); }; };
 		3F082E801C96F52A00ACF6F8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F082E7F1C96F52A00ACF6F8 /* ViewController.m */; settings = {ASSET_TAGS = (); }; };
+		3F7B385A1C9905CD00975DF1 /* MyActivityIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B38541C9905CD00975DF1 /* MyActivityIndicatorView.m */; settings = {ASSET_TAGS = (); }; };
+		3F7B385B1C9905CD00975DF1 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B38571C9905CD00975DF1 /* Reachability.m */; settings = {ASSET_TAGS = (); }; };
+		3F7B385C1C9905CD00975DF1 /* ZzMovieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F7B38591C9905CD00975DF1 /* ZzMovieViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,13 +55,15 @@
 		3F082E6A1C96F51700ACF6F8 /* play_@128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "play_@128.png"; sourceTree = "<group>"; };
 		3F082E6B1C96F51700ACF6F8 /* point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = point.png; sourceTree = "<group>"; };
 		3F082E6C1C96F51700ACF6F8 /* voice.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = voice.png; sourceTree = "<group>"; };
-		3F082E751C96F51F00ACF6F8 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
-		3F082E771C96F51F00ACF6F8 /* MyActivityIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyActivityIndicatorView.h; sourceTree = "<group>"; };
-		3F082E781C96F51F00ACF6F8 /* MyActivityIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyActivityIndicatorView.m; sourceTree = "<group>"; };
-		3F082E7A1C96F51F00ACF6F8 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
-		3F082E7B1C96F51F00ACF6F8 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
 		3F082E7E1C96F52A00ACF6F8 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3F082E7F1C96F52A00ACF6F8 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		3F7B38511C9905CD00975DF1 /* Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		3F7B38531C9905CD00975DF1 /* MyActivityIndicatorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyActivityIndicatorView.h; sourceTree = "<group>"; };
+		3F7B38541C9905CD00975DF1 /* MyActivityIndicatorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyActivityIndicatorView.m; sourceTree = "<group>"; };
+		3F7B38561C9905CD00975DF1 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		3F7B38571C9905CD00975DF1 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		3F7B38581C9905CD00975DF1 /* ZzMovieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZzMovieViewController.h; sourceTree = "<group>"; };
+		3F7B38591C9905CD00975DF1 /* ZzMovieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZzMovieViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +105,7 @@
 		3F082E3F1C96F4DD00ACF6F8 /* ZzVideoPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				3F082E741C96F51F00ACF6F8 /* Tools */,
+				3F7B38501C9905CD00975DF1 /* ZzMovieViewController */,
 				3F082E651C96F51700ACF6F8 /* Resources */,
 				3F082E431C96F4DD00ACF6F8 /* AppDelegate.h */,
 				3F082E441C96F4DD00ACF6F8 /* AppDelegate.m */,
@@ -148,30 +151,32 @@
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		3F082E741C96F51F00ACF6F8 /* Tools */ = {
+		3F7B38501C9905CD00975DF1 /* ZzMovieViewController */ = {
 			isa = PBXGroup;
 			children = (
-				3F082E751C96F51F00ACF6F8 /* Header.h */,
-				3F082E761C96F51F00ACF6F8 /* MyActivityIndicatorView */,
-				3F082E791C96F51F00ACF6F8 /* Reachablility */,
+				3F7B38511C9905CD00975DF1 /* Header.h */,
+				3F7B38521C9905CD00975DF1 /* MyActivityIndicatorView */,
+				3F7B38551C9905CD00975DF1 /* Reachablility */,
+				3F7B38581C9905CD00975DF1 /* ZzMovieViewController.h */,
+				3F7B38591C9905CD00975DF1 /* ZzMovieViewController.m */,
 			);
-			path = Tools;
+			path = ZzMovieViewController;
 			sourceTree = "<group>";
 		};
-		3F082E761C96F51F00ACF6F8 /* MyActivityIndicatorView */ = {
+		3F7B38521C9905CD00975DF1 /* MyActivityIndicatorView */ = {
 			isa = PBXGroup;
 			children = (
-				3F082E771C96F51F00ACF6F8 /* MyActivityIndicatorView.h */,
-				3F082E781C96F51F00ACF6F8 /* MyActivityIndicatorView.m */,
+				3F7B38531C9905CD00975DF1 /* MyActivityIndicatorView.h */,
+				3F7B38541C9905CD00975DF1 /* MyActivityIndicatorView.m */,
 			);
 			path = MyActivityIndicatorView;
 			sourceTree = "<group>";
 		};
-		3F082E791C96F51F00ACF6F8 /* Reachablility */ = {
+		3F7B38551C9905CD00975DF1 /* Reachablility */ = {
 			isa = PBXGroup;
 			children = (
-				3F082E7A1C96F51F00ACF6F8 /* Reachability.h */,
-				3F082E7B1C96F51F00ACF6F8 /* Reachability.m */,
+				3F7B38561C9905CD00975DF1 /* Reachability.h */,
+				3F7B38571C9905CD00975DF1 /* Reachability.m */,
 			);
 			path = Reachablility;
 			sourceTree = "<group>";
@@ -284,10 +289,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F082E451C96F4DD00ACF6F8 /* AppDelegate.m in Sources */,
+				3F7B385C1C9905CD00975DF1 /* ZzMovieViewController.m in Sources */,
 				3F082E421C96F4DD00ACF6F8 /* main.m in Sources */,
-				3F082E7C1C96F51F00ACF6F8 /* MyActivityIndicatorView.m in Sources */,
-				3F082E7D1C96F51F00ACF6F8 /* Reachability.m in Sources */,
 				3F082E801C96F52A00ACF6F8 /* ViewController.m in Sources */,
+				3F7B385A1C9905CD00975DF1 /* MyActivityIndicatorView.m in Sources */,
+				3F7B385B1C9905CD00975DF1 /* Reachability.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -476,6 +482,7 @@
 				3F082E611C96F4DD00ACF6F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F082E621C96F4DD00ACF6F8 /* Build configuration list for PBXNativeTarget "ZzVideoPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -484,6 +491,7 @@
 				3F082E641C96F4DD00ACF6F8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
